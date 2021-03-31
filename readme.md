@@ -25,7 +25,7 @@ npm i #or `npm ci` if you want to keep the transitive dependencies
 
 You can then set the JSON folder output in the `.env` file.
 
-If you are using https://github.com/Seblor/foxhole-war-map, this should be set as `web-server-directory/public/data/`. If will create the files with this pattern :
+If you are using https://github.com/Seblor/foxhole-war-map, this should be set as `web-server-directory/public/data/`. It will create the files with this pattern :
 
 ```tree
 ./data
